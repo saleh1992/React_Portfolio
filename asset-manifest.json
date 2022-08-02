@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.61d04bcf.css",
-    "main.js": "/React_Portfolio/static/js/main.64f6d942.js",
+    "main.css": "/React_Portfolio/static/css/main.21f6d93a.css",
+    "main.js": "/React_Portfolio/static/js/main.291b8977.js",
+    "static/media/ECO-eCommerce.png": "/React_Portfolio/static/media/ECO-eCommerce.64a4a94b81f777684dda.png",
+    "static/media/amazon.png": "/React_Portfolio/static/media/amazon.88be1e606efa1b68849d.png",
     "static/media/portfolio5.png": "/React_Portfolio/static/media/portfolio5.2d7974dc3469b808a57a.png",
     "static/media/portfolio6.png": "/React_Portfolio/static/media/portfolio6.fd3f6b3660ae507ba7c1.png",
     "static/media/portfolio2.png": "/React_Portfolio/static/media/portfolio2.7f3fbfec11072368bf8c.png",
@@ -9,14 +11,15 @@
     "static/media/portfolio4.png": "/React_Portfolio/static/media/portfolio4.165f42f1706e6a8d1fd9.png",
     "static/media/portfolio1.png": "/React_Portfolio/static/media/portfolio1.9ea652375b598461afb9.png",
     "static/media/portfolio3.png": "/React_Portfolio/static/media/portfolio3.fffd4ff0948c0ca33752.png",
+    "static/media/CRUD.png": "/React_Portfolio/static/media/CRUD.9047f107496d7f9d1c05.png",
     "static/media/cv.pdf": "/React_Portfolio/static/media/cv.b86f21b92d16cabaa50b.pdf",
     "static/media/me-about.jpg": "/React_Portfolio/static/media/me-about.f08bf4b98ca3a87194db.jpg",
     "index.html": "/React_Portfolio/index.html",
-    "main.61d04bcf.css.map": "/React_Portfolio/static/css/main.61d04bcf.css.map",
-    "main.64f6d942.js.map": "/React_Portfolio/static/js/main.64f6d942.js.map"
+    "main.21f6d93a.css.map": "/React_Portfolio/static/css/main.21f6d93a.css.map",
+    "main.291b8977.js.map": "/React_Portfolio/static/js/main.291b8977.js.map"
   },
   "entrypoints": [
-    "static/css/main.61d04bcf.css",
-    "static/js/main.64f6d942.js"
+    "static/css/main.21f6d93a.css",
+    "static/js/main.291b8977.js"
   ]
 }
