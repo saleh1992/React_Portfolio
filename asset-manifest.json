@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.21f6d93a.css",
-    "main.js": "/React_Portfolio/static/js/main.291b8977.js",
+    "main.css": "/React_Portfolio/static/css/main.55be623c.css",
+    "main.js": "/React_Portfolio/static/js/main.8bdb5480.js",
     "static/media/ECO-eCommerce.png": "/React_Portfolio/static/media/ECO-eCommerce.64a4a94b81f777684dda.png",
     "static/media/amazon.png": "/React_Portfolio/static/media/amazon.88be1e606efa1b68849d.png",
     "static/media/portfolio5.png": "/React_Portfolio/static/media/portfolio5.2d7974dc3469b808a57a.png",
@@ -15,11 +15,11 @@
     "static/media/cv.pdf": "/React_Portfolio/static/media/cv.b86f21b92d16cabaa50b.pdf",
     "static/media/me-about.jpg": "/React_Portfolio/static/media/me-about.f08bf4b98ca3a87194db.jpg",
     "index.html": "/React_Portfolio/index.html",
-    "main.21f6d93a.css.map": "/React_Portfolio/static/css/main.21f6d93a.css.map",
-    "main.291b8977.js.map": "/React_Portfolio/static/js/main.291b8977.js.map"
+    "main.55be623c.css.map": "/React_Portfolio/static/css/main.55be623c.css.map",
+    "main.8bdb5480.js.map": "/React_Portfolio/static/js/main.8bdb5480.js.map"
   },
   "entrypoints": [
-    "static/css/main.21f6d93a.css",
-    "static/js/main.291b8977.js"
+    "static/css/main.55be623c.css",
+    "static/js/main.8bdb5480.js"
   ]
 }
